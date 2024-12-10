@@ -1,3 +1,5 @@
+# DOM Practice - Word Cloud Challenge
+
 The file **cloud.html** contains a paragraph of text.
 
 In this paragraph, find the 12 most often occurring words, and put them in a word cloud below the paragraph.
