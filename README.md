@@ -92,4 +92,3 @@ You may edit **cloud.html**, **cloud.js**, and **cloud.css**.
 </body>
 ```
 </html>
-'''
