@@ -12,8 +12,8 @@ The most often occurring word should have a font size of 64px. The second most o
 Other stylings are completely up to you! Colors, arrangement, how the words are flipped - that's your decision.
 
 You may edit **cloud.html**, **cloud.js**, and **cloud.css**.
-cloud.html
 
+- **cloud.html**
 <!DOCTYPE html>
 <html>
 
