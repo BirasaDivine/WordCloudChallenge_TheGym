@@ -14,6 +14,7 @@ Other stylings are completely up to you! Colors, arrangement, how the words are 
 You may edit **cloud.html**, **cloud.js**, and **cloud.css**.
 
 - **cloud.html**
+```html
 <!DOCTYPE html>
 <html>
 
@@ -89,5 +90,6 @@ You may edit **cloud.html**, **cloud.js**, and **cloud.css**.
     <script src="./cloud.js"></script>
 
 </body>
-
+```
 </html>
+'''
